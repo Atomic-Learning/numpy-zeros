@@ -19,7 +19,7 @@
   "related": [
     "numpy-full"
   ],
-  "python-packages": [
+  "python_packages": [
     "numpy"
   ]
 }
