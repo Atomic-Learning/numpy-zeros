@@ -14,7 +14,8 @@
   "prerequisites": [
     "numpy-arrays-with-multiple-dimensions",
     "python-lists-introduction",
-    "programming-integers-and-floats"
+    "programming-integers-and-floats",
+    "programming-calling-functions"
   ],
   "related": [
     "numpy-full"
