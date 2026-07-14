@@ -1,22 +1,21 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
-    "prerequisites": [
-        "",
-        ""
-    ],
-    "related": [
-        "",
-        ""
-    ]
+  "title": "Numpy: Zeros",
+  "slug": "numpy-zeros",
+  "description": "Create arrays of zeros with a chosen multidimensional shape.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 2,
+  "prerequisites": [
+    "atomic-learning-python-cells-importing-packages",
+    "numpy-arrays-with-multiple-dimensions"
+  ],
+  "related": [
+    "numpy-full"
+  ]
 }
