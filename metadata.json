@@ -12,10 +12,14 @@
   ],
   "duration": 1,
   "prerequisites": [
-    "atomic-learning-python-cells-importing-packages",
-    "numpy-arrays-with-multiple-dimensions"
+    "numpy-arrays-with-multiple-dimensions",
+    "python-lists-introduction",
+    "programming-integers-and-floats"
   ],
   "related": [
     "numpy-full"
+  ],
+  "python-packages": [
+    "numpy"
   ]
 }
