@@ -18,7 +18,8 @@
     "programming-calling-functions"
   ],
   "related": [
-    "numpy-full"
+    "numpy-full",
+    "example-performance-comparison-sequence-zeros-numpy"
   ],
   "python_packages": [
     "numpy"
